@@ -1,0 +1,74 @@
+h1 {
+    background-image: url('img/pattern.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Helvetica';
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Helvetica';
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    font-family: 'Helvetica';
+    font-weight: bold;
+    color: blue;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(209, 120, 120);
+}
+
+footer {
+    font-family: 'Helvetica';
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(209, 120, 120);
+    text-align: center;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: skyblue;
+    color: white;
+}
+
+.nav-button {
+    display: block;
+    margin: 30px 0 30px auto; /* top right bottom left */
+    font-family: 'Helvetica';
+    font-size: 21px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+    border-radius: 15px;
+    padding: 10px 20px;
+    border: none; 
+}
+
+.nav-button:hover {
+  background-color: skyblue;
+  color: white;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
