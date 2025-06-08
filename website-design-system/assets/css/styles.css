@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: grey;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Main navigation */
+.navbar {
+    background-color: #EDE7F6;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar ul {
+    list-style: none; 
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.navbar a {
+    color: #2c3e50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Stylings */
+h1, h2, h3, h4, h5 {
+    color: #2c3e50;
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.disclaimer {
+    font-style: italic;
+    font-size: 0.8rem;
+    padding: 1rem;
+}
+
+ul {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+li {
+    margin: 0.5rem;
+}
+
+/* Container */
+.container-first {
+    background-color: #F8E8DA;
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.container-second {
+    background-color: #FFF3E0;
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.container-third {
+    background-color: #FCE4EC;
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+/* Everything colors */
+#colors {
+    padding: 2rem;
+    background-color: #f4f4f4;
+}
+
+.pallette-color {
+    width: 100px;
+    height: 100px;
+    margin: 1rem;
+    display: inline-block;
+    border-radius: 8px;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    font-weight: bold;
+}
+
+/* Typography  */
+#typography {
+    padding: 2rem;
+}
+
+.heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.subheading {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.body-text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* A place for buttons */
+#buttons {
+    padding: 2rem;
+    display: flex;
+    gap: 1rem;
+}
+
+button {
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+button.primary {
+    background-color: #4CAF50;
+    color: white;
+}
+
+button.secondary {
+    background-color: #FF5722;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Main */
+main {
+    flex: 1;
+    padding: 2rem;
+}
+
+/* Footer things */
+footer {
+    text-align: center;
+    background-color: #EDE7F6;
+    color: #2c3e50;
+    padding: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
