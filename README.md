@@ -1,17 +1,44 @@
-# 🚀 Projects from CodeCademy Front-End Engineer Path
+# 🚀 Codecademy Front-End Engineer Path Projects
 
-Hi there! 👋
+Hi! 👋
 
-This README appears to be empty! 🎉
-For now. (Well, it's not empty, but it is a bit useless... I admit)
+In **April 2025** I got challenged to do **every web development course** we could find—a challenge I happily accepted. 🎉  
+This repository contains all my projects, challenges, and extra exercises from the [Codecademy Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path).
 
-Instead, here is a little joke
-Who knows, it might just be your humour. 
+![GitHub last commit](https://img.shields.io/github/last-commit/PastelPrism/codecademy-front-end-engineer)
 
-2 Polar bears are sitting on an icefloe,
-Says one "I'm going to push you into the water"
-Says the other one "Eh, no" 🐻  
+---
 
-And here is a link to a first project  
-https://pastelprism.github.io/codecademy-front-end-engineer/dasmotos-arts-crafts/  
+## 📚 Table of Contents
+- [Curriculum Overview](#-curriculum-overview)
+- [Projects](#projects)
+- [How to Reach Me](#-how-to-reach-me)
+
+---
+
+## 🎓 Curriculum Overview
+
+The **Codecademy Front-End Engineer Path** consists of 33 modules, each with real-life projects, practice projects, lessons, quizzes, and assessments.  
+Below you'll find the off-platform and challenge projects I’ve completed or am working on.
+
+---
+
+## 📁 Projects
+
+| # | Project Name                                                                 | Languages   | Project Page                                                                 | Challenge Description                      | Challenge Page                                                                 |
+|---|------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------|--------------------------------------------|-------------------------------------------------------------------------------|
+| 1 | [Dasmoto's Arts and Crafts](https://github.com/PastelPrism/codecademy-front-end-engineer/tree/main/dasmotos-arts-crafts) | HTML, CSS   | [View](https://pastelprism.github.io/codecademy-front-end-engineer/dasmotos-arts-crafts/) | Make the original Dasmoto's website more visual appealing | [View](https://pastelprism.github.io/codecademy-front-end-engineer/dasmotos-arts-crafts/challenge-page.html) |
+| 2 | Build a Cheatsheet                                                           | HTML, CSS   | _(soon!)_                                                            | _(soon!)_                            | _(soon!)_                                                               |
+| 3 | Website Design System                                                        | HTML, CSS   | _(soon!)_                                                            | _(soon!)_                            | _(soon!)_                                                               |                                                          |
+
+---
+
+## 📫 How to Reach Me
+
+For comments, feedback, extra challenges, or just to cheer me on:  
+📩 **[amy-van-leeuwen@proton.me](mailto:amy-van-leeuwen@proton.me)**
+
+---
+
+_Thanks for visiting!_ 👋😊
 
