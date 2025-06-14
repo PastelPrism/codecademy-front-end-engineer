@@ -1,0 +1,166 @@
+body {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: var(--dark-blue);
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+}
+
+.nav-links ul {
+    display: flex;
+    padding: 0;
+    margin: 0; 
+}
+
+.nav-links li {
+    margin: 0 10px;
+    list-style: none; 
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--light-grey);
+}
+
+.logo {
+    font-size: 24px;
+    color: var(--white);
+    font-weight: bold;
+}
+
+.hero {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-image: url(./img/img-mission-background.webp);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: seashell;
+    text-shadow: 1px 1px 8px #1D3557;
+}
+
+.hero-header {
+    font-family: Helvetica;
+    font-size: 42px;
+    font-weight: 700;
+    margin: 0;
+    background-color: rgba(29, 53, 87, 0.8);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.hero-subheader {
+    font-size: 20px;
+    margin: 16px 0 0 0;
+    background-color: rgba(29, 53, 87, 0.7);
+    padding: 8px 20px;
+    border-radius: 10px;
+    background-color: #457B9D;
+}
+
+.tea-otm {
+  text-align: center;
+  margin: 60px auto;
+}
+
+.tea-otm-row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 32px 0 0 0;
+}
+
+.tea-otm-row--center {
+  justify-content: center;
+  margin-top: 32px;
+}
+
+.tea-otm-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tea-otm-item img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.tea-otm-item h4 {
+  margin: 0;
+  font-size: 1.1em;
+  color: seashell;
+}
+
+.locations {
+  background-image: url('./img/img-locations-background.webp');
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 0;
+}
+
+.locations h2 {
+  color: seashell;
+  margin-bottom: 40px;
+  text-shadow: 1px 1px 8px #000;
+}
+
+.locations-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  width: 100%;
+  max-width: 1100px;
+}
+
+.location-block {
+  background: rgba(0, 0, 0, 0.85);
+  padding: 32px 40px;
+  border-radius: 10px;
+  color: seashell;
+  text-align: center;
+  min-width: 220px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.location-block h4 {
+  margin: 0 0 16px 0;
+  font-size: 1.3em;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.location-block p {
+  margin: 6px 0;
+  font-size: 1em;
+}
