@@ -300,6 +300,8 @@ header .mobile {
   font-weight: bold;
   color: #4a4a4a;
   margin: 0;
+  font-family: "Roboto-bold";
+  line-height: 1.2;
 }
 
 .feature h3 {
@@ -308,6 +310,7 @@ header .mobile {
   font-weight: 300;
   color: #4a4a4a;
   margin: 0;
+  font-family: "Roboto-light";
 }
 
 @media only screen and (max-width: 890px) {
@@ -338,13 +341,13 @@ header .mobile {
 /* Filters Section */
 
 #filters-section {
-  padding: 4rem 0;
+  padding: 4rem 0 4rem 0; 
   background-color: #4a4a4a;
 }
 
 #filters-section .content {
   padding: 0 .625rem;
-  margin-bottom: 5rem;
+  margin-bottom: 5rem; 
 }
 
 #filters-section .content h2 {
@@ -352,6 +355,8 @@ header .mobile {
   font-weight: bold;
   color: #ffffff;
   margin: 0;
+  opacity: 100%;
+  font-family: "Roboto-bold";
 }
 
 #filters-section .content h3 {
@@ -360,15 +365,17 @@ header .mobile {
   font-weight: 300;
   color: #ffffff;
   margin: 0;
+  font-family: 'Roboto-light';
 }
 
 #filters-section .images-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: 0; 
   max-width: 100%;
   padding: 0 1%;
+  margin-bottom: 0;
 }
 
 #filters-section .image-container {
@@ -398,7 +405,7 @@ header .mobile {
 
   #filters-section .images-container {
     padding: 0;
-    gap: 0.5rem;
+    gap: 0; 
   }
 
   #filters-section .image-container {
