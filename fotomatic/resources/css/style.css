@@ -47,7 +47,7 @@ body {
   color: #ffffff;
   font-family: "Roboto-Medium", sans-serif;
   font-size: 20px;
-  line-height: 64px; /* Center text vertically */
+  line-height: 64px; 
   text-align: center;
   text-decoration: none;
   border: none;
@@ -55,8 +55,8 @@ body {
 }
 
 #sign-up-cta .button {
-  margin: 1.625rem auto 0 auto; /* Center the button horizontally */
-  display: block; /* Make it a block element for proper centering */
+  margin: 1.625rem auto 0 auto; 
+  display: block; 
 }
 
 /* Mobile header “Join us” button override */
@@ -417,28 +417,31 @@ header .mobile {
 
 #quotes-section {
   background-color: #f3f3f3;
+  padding: 5rem 0; 
 }
 
 #quotes-section .content {
   display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 5rem 0;
+  padding: 0;
 }
 
 #quotes-section .quote {
-  font-family: "Palatino", serif;
-  font-size: 1.875rem;
+  font-family: "Palatino-Italic", serif;
+  font-size: 30px; 
   line-height: 1.1;
   font-style: italic;
   color: #4a4a4a;
-  margin: 0;
-  padding-right: 1.875rem;
+  margin: 0 1.875rem 0 0; 
+  text-align: left;
 }
 
 #quotes-section .quote-citation {
   height: 1.875rem;
   display: block;
+  margin: 0;
 }
 
 @media only screen and (max-width: 760px) {
@@ -465,23 +468,37 @@ header .mobile {
 
 footer {
   background-color: #9b9b9b;
-  padding: 1.5rem 2rem;
+  height: 62px; 
+  padding: 0;
 }
 
 footer .content {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  padding-left: 12px; 
+  padding-right: 32px; 
   color: #ffffff;
   font-size: .75rem;
   margin: 0;
 }
 
 footer .copyright {
-  flex-grow: 1;
+  color: #ffffff; 
+  font-size: 12px; 
+  font-family: "Roboto-Regular", sans-serif; 
+}
+
+footer .location {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: "Roboto-Regular", sans-serif;
 }
 
 @media only screen and (min-width: 760px) {
-  footer .content {
-    font-size: .625rem;
+  footer .copyright,
+  footer .location {
+    font-size: 12px; 
   }
 }
