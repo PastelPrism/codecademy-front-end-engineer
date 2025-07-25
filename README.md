@@ -21,6 +21,9 @@ This repository contains all my projects, challenges, and extra exercises from t
 The **Codecademy Front-End Engineer Path** consists of 33 modules, each with real-life projects, practice projects, lessons, quizzes, and assessments.  
 Below you'll find the off-platform and challenge projects I’ve completed or am working on.
 
+1. fasion blog
+2. Wine Festival Schedule
+
 ---
 
 ## 📁 Projects
