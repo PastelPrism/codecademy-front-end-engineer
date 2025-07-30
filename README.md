@@ -32,7 +32,7 @@ Below you'll find the off-platform and challenge projects I’ve completed or am
 | 5  | [Olivia Woodruff Portfolio](https://github.com/PastelPrism/codecademy-front-end-engineer/tree/main/olivia-woodruff-portfolio) | HTML, CSS      | [View](https://pastelprism.github.io/codecademy-front-end-engineer/olivia-woodruff-portfolio/) | ✅               | _(soon!)_                            | _(soon!)_                                                               | ⏳                |
 | 6  | [Davies Burgers](https://github.com/PastelPrism/codecademy-front-end-engineer/tree/main/davies-burgers) | HTML, CSS      | [View](https://pastelprism.github.io/codecademy-front-end-engineer/davies-burgers/) | ✅               | _(soon!)_                            | _(soon!)_                                                               | ⏳                |
 | 7  | [Broadway](https://github.com/PastelPrism/codecademy-front-end-engineer/tree/main/broadway) | HTML, CSS      | [View](https://pastelprism.github.io/codecademy-front-end-engineer/broadway/) | ✅               | _(soon!)_                            | _(soon!)_                                                               | ⏳                |
-
+| 8  | [Bicycle World](https://github.com/PastelPrism/codecademy-front-end-engineer/tree/main/bicycle-world) | Bash           | x | ✅               | _(soon!)_                            | _(soon!)_                                                               | ⏳                |
 
 ## 📁 Off-Platform Projects
 
