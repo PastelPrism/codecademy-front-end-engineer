@@ -12,11 +12,11 @@ This repository contains all my projects, challenges, and extra exercises from t
 ## 📚 Table of Contents
 - [Curriculum Overview](#-curriculum-overview)
 - [Projects](#projects)
-    - [Web Foundations](#-web-foundations)
-    - [Improved Styling with CSS](#-improved-styling-with-css)
-    - [Building Interactive Websites](#-building-interactive-websites)
-    - [Front-End Development](-front-end-development)
-    - [Interview Prep](-interview-prep)
+    - [Web Foundations](#web-foundations)
+    - [Improved Styling with CSS](#improved-styling-with-css)
+    - [Building Interactive Websites](#building-interactive-websites)
+    - [Front-End Development](#front-end-development)
+    - [Interview Prep](#interview-prep)
 - [How to Reach Me](#-how-to-reach-me)
 
 <img src="assets/pastel-banner.jpg" width="100%" height="5px" />
@@ -35,7 +35,7 @@ Below you'll find the off-platform and challenge projects I’ve completed or am
 | **Progress:** 0% Complete | **Progress:** 0% Complete |
 
 
-## **Web Foundations:**
+## 🌱**Web Foundations:**
 
 ### Projects:
 _See all 9 **Web Foundations** projects by expanding the section below._
@@ -164,7 +164,7 @@ _See the **Web Foundations** Off-Platform Project by expanding the section below
 - **Extra Challenge Status:** ⏳
 </details>
 
-## **Improved Styling with CSS:**  
+## 🎨 **Improved Styling with CSS:**  
 
 
 ### Projects:
@@ -392,7 +392,7 @@ _See both **Improved Styling with CSS** Off-Platform Projects by expanding the s
 - **Extra Challenge Status:** ⏳
 </details>
 
-## **Building Interactive Websites:**  
+## ⚡**Building Interactive Websites:**  
 
 ### Projects:
 _See all 18 **Building Interactive Websites** projects by expanding the section below._
@@ -694,7 +694,7 @@ __See the Portfolio Project for  **Building Interactive Websites** by expanding 
 - **Extra Challenge Status:** ⏳
 </details>
 
-## **Front-End Development:**  
+## 🛠️**Front-End Development:**  
 
 ### Projects:
 _See all 22 **Front-End Development** projects by expanding the section below._
@@ -1032,7 +1032,7 @@ _See the Portfolio Project 'Reddit Client' for **Front-End Development** by expa
 - **Extra Challenge Status:** ⏳
 </details>
 
-## **Interview Prep:**  
+## 💼**Interview Prep:**  
 
 ### Project:
 _See the project 'Web Navigation' for **Interview Prep** by expanding the section below._
