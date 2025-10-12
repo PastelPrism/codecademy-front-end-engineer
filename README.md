@@ -47,9 +47,9 @@ _See all 9 **Web Foundations** projects by expanding the section below._
 - **Assignment Description:** _Make a blog for a fashion designer_
 - **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/fashion-blog/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon._
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Build an awesome fasion blog using HTML only._
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/fashion-blog/extra)
+- **Extra Challenge Status:** ✅
 
 ---  
 
