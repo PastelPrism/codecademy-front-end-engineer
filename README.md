@@ -53,72 +53,72 @@ _See all 9 **Web Foundations** projects by expanding the section below._
 
 ---  
 
-#### [2. **Wine Festival Schedule**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [2. **Wine Festival Schedule**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/wine-festival-schedule)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML_
+- **Assignment Description:** _Practice tabular organization in HTML by building a wine festival schedule_
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/wine-festival-schedule/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 ---  
 
-#### [3. **New York City Blog**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [3. **New York City Blog**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/new-york-city-blog)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML_
+- **Assignment Description:** _Step by step learn how to set up a  blog page with semantic HTML_
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/new-york-city-blog/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 ---  
 
-#### [4. **Healthy Recipes**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [4. **Healthy Recipes**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/healthy-recipes)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML / CSS_
+- **Assignment Description:** _Give the recipe some style with CSS_
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/healthy-recipes/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 ---
 
-#### [5. **Olivia Woodruff Portfolio**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [5. **Olivia Woodruff Portfolio**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/olivia-woodruff-portfolio)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML / CSS_
+- **Assignment Description:** _Step by step learn how to build a portfolio page with HTML and CSS_
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/olivia-woodruff-portfolio/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 ---
 
-#### [6. **Davies Burgers**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [6. **Davies Burgers**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/davies-burgers)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML / CSS_
+- **Assignment Description:** _Step by step build a webpage for a restaurant using CSS the box model_
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/davies-burgers/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 ---
 
-#### [7. **Broadway**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [7. **Broadway**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/broadway)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML / CSS_
+- **Assignment Description:** _Practice positioning in CSS by building a webpage about Broadway_
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/broadway/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
