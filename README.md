@@ -155,13 +155,13 @@ _See the **Web Foundations** Off-Platform Project by expanding the section below
 
 #### [10. **Dasmoto's Arts & Crafts**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon._
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Languages:** _HTML / CSS_
+- **Assignment Description:** _Code a webpage for a crafts store locally, highlighting products, story, and contact details._
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/dasmotos-arts-crafts/index.html)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Redesign the webpaga for the crafts store with the same HTML but different CSS_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/dasmotos-arts-crafts/challenge-page.html)
+- **Extra Challenge Status:** ✅
 </details>
 
 ## 🎨 **Improved Styling with CSS:**  
