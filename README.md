@@ -125,27 +125,27 @@ _See all 9 **Web Foundations** projects by expanding the section below._
 
 ---
 
-#### [8. **Bicycle World**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [8. **Bicycle World**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/bicycle-world)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon._
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Languages:** _Bash_
+- **Assignment Description:** _Create and navigate through folders using Bash_
+- **Assignment Page:** _X_
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _X_
+- **Extra Challenge Page:** _X_
+- **Extra Challenge Status:** ❌
 
 ---
 
-#### [9. **Daily Buzz**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [9. **Daily Buzz**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/daily-buzz)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon._
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Languages:** _Bash_
+- **Assignment Description:** _Create and navigate through folders using Bash_
+- **Assignment Page:** _X_
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _X_
+- **Extra Challenge Page:** _X_
+- **Extra Challenge Status:** ❌
 </details>
 
 
