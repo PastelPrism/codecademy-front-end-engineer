@@ -400,10 +400,10 @@ _See all 18 **Building Interactive Websites** projects by expanding the section 
 
 #### [29. **Kelvin Weather**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
 
-- **Languages:** _Soon_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _JavScript_
+- **Assignment Description:** _Calculate Kelvin to Celsius, to Fahrenheit by practising with variables._
+- **Assignment Page:** _X JavaScript only_
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
