@@ -129,7 +129,7 @@ _See all 9 **Web Foundations** projects by expanding the section below._
 
 - **Languages:** _Bash_
 - **Assignment Description:** _Create and navigate through folders using Bash_
-- **Assignment Page:** _X_
+- **Assignment Page:** ❌
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _X_
 - **Extra Challenge Page:** _X_
@@ -153,7 +153,7 @@ _See all 9 **Web Foundations** projects by expanding the section below._
 _See the **Web Foundations** Off-Platform Project by expanding the section below._
 <details>
 
-#### [10. **Dasmoto's Arts & Crafts**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [10. **Dasmoto's Arts & Crafts**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/dasmotos-arts-crafts)
 
 - **Languages:** _HTML / CSS_
 - **Assignment Description:** _Code a webpage for a crafts store locally, highlighting products, story, and contact details._
@@ -171,24 +171,24 @@ _See the **Web Foundations** Off-Platform Project by expanding the section below
 _See all 12 **Improved Styling with CSS** projects by expanding the section below._
 <details>
 
-#### [11. **Paint Store**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [11. **Paint Store**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/paint-store)
 
-- **Languages:** _Soon_
+- **Languages:** _HTML & CSS_
 - **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/paint-store/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 ---  
 
-#### [12. **Typography**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/)
+#### [12. **Typography**](https://github.com/PastelPrism/codecademy=front-end-engineer/tree/main/typography)
 
-- **Languages:** _Soon_
+- **Languages:** _HTML & CSS_
 - **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/codecademy-front-end-engineer/typography/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon._
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
